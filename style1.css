@@ -151,7 +151,7 @@ span {
 
 .btn:hover {
     transform: scale(1.01) translateY(-5px);
-    background: transparent;
+    /* background: transparent; */
     border: 1px solid var(--main-color);
 }
 
